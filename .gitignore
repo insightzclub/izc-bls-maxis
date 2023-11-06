@@ -1,0 +1,7 @@
+.serverless
+/.history
+/node_modules
+package-lock.json
+.env
+yarn.lock
+yarn-error.log
